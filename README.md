@@ -11,6 +11,7 @@ Repository documentation and setup instructions.
 | `.gitignore` | Files and directories excluded from Git. |
 | `README.md` | Project documentation and setup instructions. |
 | `assignment_1/` | Assignment 1 directory. |
+| `assignment_2/` | Assignment 2 directory. |
 | `lab_1/` | Lab 1 directory. |
 | `lab_2/` | Lab 2 directory. |
 
